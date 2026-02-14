@@ -1,3 +1,5 @@
+> Author note: code is from a previous NFT minting project, instead of letting it go to waste, i've stripped all the branding and made some small improvements with copilot. enjoy!
+
 # NFT Minting Example
 
 This is a basic NFT minting example built with Next.js and viem.
