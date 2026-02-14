@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import Countdown from "react-countdown";
-import { CONTRACT, MINT_MAX, MINT_PRICE, PARAMS } from "../pages";
+import { CONTRACT, MINT_MAX, MINT_PRICE, PARAMS } from "../lib/mintConfig";
 
 type MintSectionProps = {
   totalSupply: number;
